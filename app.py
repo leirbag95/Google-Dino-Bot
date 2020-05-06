@@ -3,7 +3,6 @@ from PIL import ImageGrab
 import cv2
 import time
 import pyautogui
-from matplotlib import pyplot as plt
 import glob
 import webbrowser
 import mss
